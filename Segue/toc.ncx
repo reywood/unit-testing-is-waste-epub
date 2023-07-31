@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="616a90bb-8dcd-4fa8-9455-30b5be2618b0" name="dtb:uid" />
+    <meta content="3" name="dtb:depth" />
+    <meta content="calibre (4.99.5)" name="dtb:generator" />
+    <meta content="0" name="dtb:totalPageCount" />
+    <meta content="0" name="dtb:maxPageNumber" />
+  </head>
+  <docTitle>
+    <text>140bd09a0aec4af3aba31cdf6e6127f2</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>2.1 Introduction</text>
+      </navLabel>
+      <content src="index_split_000.html#s1" />
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>2.2 Weinberg’s Law of Decomposition</text>
+      </navLabel>
+      <content src="index_split_000.html#s2" />
+      <navPoint class="chapter" id="num_3" playOrder="3">
+        <navLabel>
+          <text>2.2.1 A corollary</text>
+        </navLabel>
+        <content src="index_split_000.html#s2-1" />
+      </navPoint>
+      <navPoint class="chapter" id="num_4" playOrder="4">
+        <navLabel>
+          <text>2.2.2 Some historical context</text>
+        </navLabel>
+        <content src="index_split_000.html#s2-2" />
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>2.3 There are few unit level bugs</text>
+      </navLabel>
+      <content src="index_split_000.html#s3" />
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>2.4 The Ethics of Testing and Releasing Latent Bugs</text>
+      </navLabel>
+      <content src="index_split_000.html#s4" />
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>2.5 Unit Testing: The Worst Approach we Know</text>
+      </navLabel>
+      <content src="index_split_000.html#s5" />
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="8">
+      <navLabel>
+        <text>2.6 Thinking one level more deeply</text>
+      </navLabel>
+      <content src="index_split_000.html#s6" />
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="9">
+      <navLabel>
+        <text>2.7 Automation Doesn’t Lead to Learning</text>
+      </navLabel>
+      <content src="index_split_000.html#s7" />
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="10">
+      <navLabel>
+        <text>2.8 The myth of cheap, early testing</text>
+      </navLabel>
+      <content src="index_split_000.html#s8" />
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="11">
+      <navLabel>
+        <text>2.9 Conclusion</text>
+      </navLabel>
+      <content src="index_split_000.html#s9" />
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="12">
+      <navLabel>
+        <text>2.10 Acks</text>
+      </navLabel>
+      <content src="index_split_000.html#s10" />
+    </navPoint>
+  </navMap>
+</ncx>

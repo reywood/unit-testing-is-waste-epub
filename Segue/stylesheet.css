@@ -1,0 +1,111 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre2 {
+    height: auto;
+    width: auto
+    }
+.calibre3 {
+    font-weight: bold
+    }
+.calibre4 {
+    font-style: italic
+    }
+.calibre5 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.67em 0
+    }
+.calibre6 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre7 {
+    display: list-item
+    }
+.calibre8 {
+    display: block;
+    list-style-type: circle;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+
+.section-title {
+    display: block;
+    font-weight: bold;
+    font-size: 1.1em;
+    /* text-decoration: underline; */
+    border-bottom: 1px solid black;
+}
+
+blockquote.tip {
+    font-style: italic;
+}
+
+table.defect-conditions {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+table.defect-conditions td {
+    padding: .25em;
+}
+table.defect-conditions td:first-child {
+    padding-right: 1em;
+}
+
+table.efficiency {
+    margin-left: auto;
+    margin-right: auto;
+}
+table.efficiency, table.efficiency td, table.efficiency th {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+table.efficiency td, table.efficiency th {
+    border-collapse: collapse;
+    padding: .5em;
+    background-color: #eee;
+}
+table.efficiency th {
+    font-weight: bold;
+}
+table.efficiency tr td, table.efficiency tr th {
+    text-align: center;
+}
+table.efficiency tr td:first-child {
+    text-align: right;
+}
+table.efficiency tr:nth-child(1) th:nth-child(1),
+table.efficiency tr:nth-child(2) th:nth-child(2),
+table.efficiency td:nth-child(1),
+table.efficiency td:nth-child(3) {
+    background-color: #ddd;
+}
+table.efficiency tr.highlight td {
+    color: #f00;
+}
+
+.center {
+    text-align: center;
+}
+.center h1 {
+    text-align: center;
+}
+.center h2 {
+    text-align: center;
+}

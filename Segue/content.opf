@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:language>en</dc:language>
+    <dc:title>Segue</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">James O Coplien</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (4.99.5) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2014-08-20T16:11:04+00:00</dc:date>
+    <meta name="calibre:timestamp" content="2023-07-30T21:30:06.505613+00:00"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">616a90bb-8dcd-4fa8-9455-30b5be2618b0</dc:identifier>
+  </metadata>
+  <manifest>
+    <item id="id1100" href="index_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="id114" href="index_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="id173" href="index-1_1.jpg" media-type="image/jpeg"/>
+    <item id="id174" href="venn-diagram.png" media-type="image/png"/>
+    <item id="id175" href="crc-card.png" media-type="image/png"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id114"/>
+    <itemref idref="id1100"/>
+  </spine>
+</package>
